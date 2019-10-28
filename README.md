@@ -1,4 +1,4 @@
-#Telegram Bot Tutorial (Total Recall)
+# Telegram Bot Tutorial (Total Recall)
 
 This repository contains basic examples of telegram bots written partially by myself, and with guidance of telebot examples from their repository:
 
