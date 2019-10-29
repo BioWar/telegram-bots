@@ -22,3 +22,7 @@ This repository contains basic examples of telegram bots written partially by my
 4. [Lesson 4](https://github.com/BioWar/telegram-bots/tree/master/Lesson_4)
 
 	Lesson 4 is completely my "masterpiece". Some work will be done to make bot working correct but it already has some good results. Firstly we parse the  [Medium](https://medium.com/topic/technology) and get list of articles, if there are articles out of scope of our database we save them. Then bot will post new articles in telegram channel. This bot was made as "coding warm-up" not for panacea for posting bot.
+
+5. [Lesson 5](https://github.com/BioWar/telegram-bots/tree/master/Lesson_5)
+
+	Lesson 5 is the example of finite state machine implemented for conversation. This example is quite simple but with this simple logic much more complex application could be made.
